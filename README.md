@@ -61,7 +61,48 @@ The page will reload and you will see it split in half. On the left you will hav
 ---
 **Optional Step** 
 
-In the `index.html` file, on the left side of the split window, type `<h1> Hello World! </h1>` and you can watch it appear on the right side of the screen as a preview for what it will look like on the internet.
+In the `index.html` file, on the left side of the split window, type `<h1> Hello World! </h1>` and you can watch it appear on the right side of the screen as a preview for what it will look like on the internet **(make sure to remove anything you write in this file before going onto the next step)**.
 
 ---
+
+## Step 4 - Write some code!
+
+Now you have a CodeSwing workspace set up and the files are ready in your directory, you need to write some code for the digital CV.
+
+I have written some code for you in this repository. Navigate to the file [index.html](./index.html) and copy the paste it into your `index.html` file. It should look basic, with no colour or pictures. Have a look at the code before pasting it into your file and see what is going on.
+
+![basic-html-code](./assets/basic-html-code.png)
+
+We now need to spruce it up and give it some colour and some context. Below the title `Home Simpson CV` add the following lines of code
+
+```html
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+    html,
+    body,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        font-family: "Roboto", sans-serif
+    }
+</style>
+```
+
+It will now look much better but it is still missing a picture!
+
+![styled-html-code](./assets/html-styled-code.png)
+
+To get the picture, save the [homer-simpson.jpg](./assets/homer-simpson.jpeg) from this repository to your computer and drag/drop it into your VS Code project in the browser. **Ensure the name of the file matches the name in the code - `homer-simpson.jpeg`**
+
+Save your `index.html` file (CMD/CTRL +S)
+
+![full-homer-simpson-cv](./assets/homer-simpson-cv.png)
+
+
+
 
