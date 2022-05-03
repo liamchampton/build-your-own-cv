@@ -103,6 +103,37 @@ Save your `index.html` file (CMD/CTRL +S)
 
 ![full-homer-simpson-cv](./assets/homer-simpson-cv.png)
 
+## Step 5 - Host it with GitHub Pages
 
+The CV is now built and now it is time to host it as a website!
+
+The first step is to commit the changes you have just made to the main branch of code. To do that, on the left hand side menu go to the GitHub icon and ensure you are signed in. On the sign in prompt, click `Accept/Allow`
+
+![github-sign-in](./assets/github-sign-in.png)
+
+Once signed in, you can now commit the changes and push the code to the GitHub repository. To do that, navigate to the fork icon on the left menu, add a message and click on the tick as shown below.
+
+![commit-and-push](./assets/commit-and-push.png)
+
+If you now navigate to the repository in GitHub you will see the code you have just added.
+
+![repository-with-code](./assets/repository-with-code.png)
+
+From here we need to enable GitHub Pages to use the `index.html` file and render it as a web page. To do that, open the `Settings` tab of the project repository and select `Pages`. On this page you will then see the option to add a `Source`. In this drop down list you will need to select `main` and finally, `save`, as shown below.
+
+![github-pages-source](./assets/github-pages-source.png)
+
+![source-and-save](./assets/source-and-save.png)
+
+![published-site-url](./assets/published-site-url.png)
+
+You will now have a link that your site is being published too. Be patient as this step may take a minute or two before the link works.
+
+The website link will be `https://<github-username>.github.io/<repository-name>/`. Once published your website should look like this:
+
+![published-site](./assets/published-website.png)
+
+
+Workshop complete! :tada: :rocket:
 
 
