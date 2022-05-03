@@ -73,7 +73,7 @@ I have written some code for you in this repository. Navigate to the file [index
 
 ![basic-html-code](./assets/basic-html-code.png)
 
-We now need to spruce it up and give it some colour and some context. Below the title `Home Simpson CV` add the following lines of code
+We now need to spruce it up and give it some colour and some context. Below the title `Homer Simpson CV` add the following lines of code
 
 ```html
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -97,7 +97,7 @@ It will now look much better but it is still missing a picture!
 
 ![styled-html-code](./assets/html-styled-code.png)
 
-To get the picture, save the [homer-simpson.jpg](./assets/homer-simpson.jpeg) from this repository to your computer and drag/drop it into your VS Code project in the browser. **Ensure the name of the file matches the name in the code - `homer-simpson.jpeg`**
+To get the picture, save the [homer-simpson.jpeg](./assets/homer-simpson.jpeg) from this repository to your computer and drag/drop it into your VS Code project in the browser. **Ensure the name of the file matches the name in the code - `homer-simpson.jpeg`**
 
 Save your `index.html` file (CMD/CTRL +S)
 
