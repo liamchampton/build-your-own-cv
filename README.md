@@ -38,3 +38,30 @@ On the left menu, click on the 4 small boxes icon. Then type into the search bar
 
 ![install-codeswing](./assets/codeswing-plugin.png)
 
+## Step 3 - Initialise the project workspace
+
+Now the plugin is installed you now need to initialise the workspace using the CodeSwing plugin. To do that, go back to the main project folder (shown below).
+
+![vscode-workspace](./assets/vscode-workspace.png)
+
+Next, open the VS Code command palette by navigating to `View` -> `Command Palette...` and follow the steps below to initialise a `CodeSwing` workspace.
+
+![command-palette](./assets/command-palette.png)
+
+Search for `CodeSwing` and select the option `CodeSwing: Initialize Workspace as Swing`
+![select-codeswing](./assets/select-codeswing.png)
+
+In the next option menu, select the option `Basic: HTML-Only` as you are only writing HTML and CSS in this workshop 
+![html-only](./assets/html-only.png)
+
+The page will reload and you will see it split in half. On the left you will have an open `index.html` file and on the right, a preview of the `index.html` file. In the Workspace, you will also see some new files have been created. It should now look like this
+
+![codeswing-workspace](./assets/codeswing-workspace.png)
+
+---
+**Optional Step** 
+
+In the `index.html` file, on the left side of the split window, type `<h1> Hello World! </h1>` and you can watch it appear on the right side of the screen as a preview for what it will look like on the internet.
+
+---
+
