@@ -4,7 +4,8 @@ Build your own CV using GitHub Pages
 Gone are the days of the poorly formatted and fiddly Word Documents and PDFs. In this lab you are going to build your own online CV that you can present to prospective employers. Through the lab you will learn how to write HTML and style it with CSS.
 
 ## Step 1
-Log into [GitHub]() and create a new repository as shown below
+Log into [GitHub](https://github.com/) and create a new repository as shown below
+
 ![create-repository](./assets/create-repository.png)
 
 Fill in the information on the screen with the following:
@@ -16,3 +17,11 @@ Fill in the information on the screen with the following:
 - Click `Create repository`
 
 ![new-repository-information](./assets/new-repository-info.png)
+
+It should then look something like
+
+![new-repository](./assets/new-repository.png)
+
+
+
+
